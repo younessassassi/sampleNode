@@ -10,8 +10,10 @@
   "author": "Youness Assassi",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.0",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "mongoose": "^4.11.13"
   },
   "devDependencies": {
     "jshint": "^2.9.5"
